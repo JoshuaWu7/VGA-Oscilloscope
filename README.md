@@ -1,4 +1,6 @@
 # VGA-Oscilloscope
+### Demonstration
+[![Video Thumbnail](https://img.youtube.com/vi/Y7BnGMnLqW0/0.jpg)](https://www.youtube.com/watch?v=Y7BnGMnLqW0)
 ### Setup
 * Have your De1-SoC connected to your computer via the USB-blaster and connect the FPGA to the VGA monitor. Power on your De1-SoC.
 ### Running the Scope
